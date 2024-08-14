@@ -76,4 +76,4 @@ private $rsa = [
 Licence: [Attribution 4.0 International (CC BY 4.0)][1]
 
 [1]: <http://creativecommons.org/licenses/by/4.0/>
-[author]: <http://www.ebookcms.com/page/help/>
+[author]: Rukka71
